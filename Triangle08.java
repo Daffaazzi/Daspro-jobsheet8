@@ -13,6 +13,7 @@ public class Triangle08 {
                 j++;
             }
             System.out.println();
+
             i++;
         }   
         sc.close();
